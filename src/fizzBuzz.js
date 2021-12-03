@@ -9,6 +9,7 @@
  */
 function fizzBuzz(min, max) {
     // CODE HERE
+    
 }
 
 export { fizzBuzz };

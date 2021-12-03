@@ -5,6 +5,11 @@
  */
 function average(scores) {
     // CODE HERE
+    var i = 0, summ = 0, ArrayLen = scores.length;
+    while (i < ArrayLen) {
+        summ = summ + scores[i++];
+}
+    return summ / ArrayLen;
 }
 
 export { average };
