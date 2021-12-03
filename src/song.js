@@ -11,6 +11,11 @@
  */
 function song(km) {
     // CODE HERE
+    let i = 0;
+    let message = "";
+
+    while (i < km)
+        
 }
 
 export { song };
